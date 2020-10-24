@@ -1,0 +1,111 @@
+#website_header{
+    color: rgb(94, 16, 219);
+    font-size: 34px
+}
+#lplp{
+    color: brown;
+    text-align: center;
+    width: ;
+    font-size: 30px; 
+    padding: 20px;
+
+
+
+
+
+
+
+}
+#popol{
+    color: rgb(255, 0, 179);
+    height: 200px;
+    width:300px ; 
+    border: rgb(77, 255, 7) solid 1px ; 
+    padding: 10px;
+    padding-top: 30px;
+    margin: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+#ghgh{
+    color: rgb(60, 11, 240);
+    border: red solid 0px;
+
+    margin: 0 auto;
+    font-family: monospace;
+    background-color: rgb(135, 222, 189);
+    padding: 30px;
+}
+#bombo{
+    color: rgb(0, 243, 122); 
+    border: black solid 2px;
+    width: 270px;
+    margin: 30px auto; 
+    font-family: cursive;
+   
+
+
+}
+
+#popo{
+    background-color: blue;
+    padding: 40px;
+
+
+
+   
+}
+#mmn{ 
+    color: rgb(255, 28, 28);
+    background-color: rgb(113, 4, 255);
+
+}
+#lllo{
+
+    width: 150px;
+
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+} 
+a:hover{ 
+    text-decoration: underline;
+    color: mediumblue;
+
+
+}
+ul{float:right ;
+    padding-top: 23px;
+    padding-right: 20px;
+    
+
+}
+li{
+    display: inline-block;
+    padding: 3px;
+    border: black ;
+    
+
+    color: rgb(0, 0, 0);
+
+}
+#aaab{ 
+    width: 70%;
+    background-color: crimson;
+    float: left;
+}
+#ssss{ 
+    background-color: chartreuse;
+    float: left;
+    width: 30%;
+    height: 1096px;
+}
+#mmnn{
+    background-color: rgb(0, 255, 170);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: end;
+
+
+}
